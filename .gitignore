@@ -1,0 +1,16 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore environment variable files (if any)
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore CSV files with sensitive information
+emails.csv
